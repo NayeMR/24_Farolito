@@ -1,0 +1,38 @@
+
+p{
+	text-align: left;
+	color: white;
+}
+h3{
+	color: #ffc200;
+}
+.raya{
+	border-bottom: dashed 3px #989898;
+}
+nav ul li{
+	display: inline;
+	color: #989898;
+	margin :1.5% 1.5%;
+	background-color: #E0FFFF;
+	
+}
+.ver{
+	width: 100px;
+	height: 30px;
+	color: #ff6a49;
+	border:solid #ff6a49 1px;
+	border-radius: 10%;
+	padding: 1%;	
+	text-align: center;
+	margin-top: 3%;
+	float: right;
+	display: inline-block;
+}
+#btnSalir{
+	color: white;
+	background-color: #A9A9A9;
+	display: inline-block
+}
+.icono{
+	float: left;
+}
